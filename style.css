@@ -18,3 +18,44 @@ header div nav a:active {
   color: #6a6a6a;
 }
 
+.wrapper {
+  padding-top: 120px;
+}
+
+#insights {
+  background: url(images/noisy-texture.png) repeat;
+}
+#insights section {
+  display: inline-block;
+  margin: 30px 20px;
+  position: relative;
+}
+#insights section h3 {
+  text-shadow: 0 1px 0 rgba(255,255,255,.1);
+}
+#insights section p {
+  width: 600px;
+  height: 400px;
+  overflow: hidden;
+}
+
+#insights section p img {
+  width: 100%;
+  height: auto;
+}
+
+#insights section div#description {
+  display: block;
+  max-height: 110px;
+  background: rgba(0,0,0,.05);
+  overflow: hidden;
+  white-space: normal;
+  padding: 0 10px;
+  border-radius: 3px;
+}
+
+#insights section div#description p {
+  margin: 0;
+  width: 580px;
+  height: auto;
+}
