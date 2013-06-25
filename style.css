@@ -42,6 +42,7 @@ header div nav a:active {
   width: 600px;
   height: 400px;
   overflow: hidden;
+  margin: 0 auto;
 }
 
 #insights section p img {
