@@ -27,6 +27,10 @@ header div nav a:active {
   padding-top: 120px;
 }
 
+#whatwedo div p {
+  content: none;
+}
+
 #insights {
   background: url(images/noisy-texture.png) repeat;
 }
