@@ -61,9 +61,23 @@ header div nav a:active {
 
 #insights section div#description p {
   margin: 0;
+  margin-top: 10px;
   width: 800px;
   height: auto;
   text-align: left;
+}
+
+#insights section div#description ul {
+  margin-left: 10px;
+}
+
+#insights section div#description li {
+  list-style: circle;
+  padding: 3px 0;
+}
+
+#insights section div#description li p{
+  margin-top: 0;
 }
 
 #whoweare p {
