@@ -68,7 +68,7 @@ header div nav a:active {
   text-align: left;
 }
 
-#insights section div#description p a {
+#insights section div#description p > a {
   color: #628b3d;
   text-decoration: none;
 }

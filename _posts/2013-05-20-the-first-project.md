@@ -34,7 +34,7 @@ I picked up this article from Hurun where Hurun Reports presents findings from C
 
 The Hurun Research Institute today released the Hurun Report Chinese Luxury Consumer Survey 2013. The survey reveals the lifestyle and brand preferences of China's wealthy consumers, and is intended to provide a holistic understanding of the spending habits and lifestyle changes of this burgeoning, influential and ever-changing consumer class. This year the survey included questions for the first time on the ‘happiness index’ of these wealthy consumers.
 
- 
+
 The Survey also ranks the brand preferences of the Chinese luxury consumers, which are presented at the annual Hurun Best of the Best Awards today.  2013 is the ninth year of the Hurun Report Chinese Luxury Consumer Survey and Hurun Best of the Best Awards.
 
 
