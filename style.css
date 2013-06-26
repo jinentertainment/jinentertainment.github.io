@@ -135,6 +135,25 @@ section#whatwedo section div {
   text-transform: lowercase;
 }
 
+#footer #email:hover {
+  color: #556b2f;
+}
+
+footer ul li a:hover#linkedin, 
+footer ul li a:active#linkedin {
+  color: #00008b;
+}
+
+footer ul li a:hover#facebook, 
+footer ul li a:active#facebook {
+  color: #3a5fcd;
+}
+
+footer ul li a:hover#pinterest, 
+footer ul li a:active#pinterest {
+  color: #cd2626;
+}
+
 .swipe {
   margin-top: 20px;
   overflow: hidden;
