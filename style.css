@@ -81,8 +81,7 @@ header div nav a:active {
 }
 
 #insights section div#description h4 {
-  margin: 0;
-  margin-top: 10px;
+  margin: 10px 0;
   text-align: left;
 }
 
