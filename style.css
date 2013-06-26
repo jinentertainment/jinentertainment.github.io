@@ -25,6 +25,30 @@ header div nav a:active {
 
 header.fixed {
   position: fixed;
+  height: 50px;
+}
+
+header.fixed > div {
+  height: 0;
+}
+
+header.fixed > div nav {
+  position: fixed;
+  top: 10px;
+  width: 100%;
+}
+
+header.fixed > div nav h1 {
+  background-size: 80px;
+  height: 50px;
+  margin: 0;
+  float: left;
+  top: 0;
+  position: fixed;
+}
+
+header.fixed > div nav a {
+  display: inline-block;
 }
 
 .wrapper {
