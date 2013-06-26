@@ -103,3 +103,7 @@ header div nav a:active {
   font-family: 'Open Sans';
   text-transform: uppercase;
 }
+
+#footer #email {
+  text-transform: lowercase;
+}
