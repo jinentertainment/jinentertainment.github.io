@@ -81,6 +81,10 @@ section#whatwedo section h3 {
   height: 100px;
 }
 
+section#whatwedo section div:nth-child(2) {
+  background: none;
+  opacity: 1;
+}
 
 #insights section {
   display: inline-block;
