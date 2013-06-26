@@ -69,6 +69,10 @@ section#whatwedo section div p::after {
   background: none;
 }
 
+#whatwedo .containter {
+  height: 500px;
+}
+
 section#whatwedo section div {
   margin: none;
   background: none;
