@@ -131,7 +131,7 @@ header div nav a:active {
   overflow: hidden;
   position: relative;
 }
-.swipe-wrap > figure {
+.swipe-wrap > div {
   float:left;
   width:100%;
   position: relative;
