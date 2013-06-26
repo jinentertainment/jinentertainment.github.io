@@ -42,7 +42,7 @@ header div nav a:active {
 
 #insights section {
   display: inline-block;
-  margin: 30px 20px;
+  margin: 30px 0px;
   position: relative;
 }
 
@@ -75,8 +75,14 @@ header div nav a:active {
 #insights section div#description p {
   margin: 0;
   margin-top: 10px;
-  width: 800px;
+  width: 680px;
   height: auto;
+  text-align: left;
+}
+
+#insights section div#description h4 {
+  margin: 0;
+  margin-top: 10px;
   text-align: left;
 }
 
