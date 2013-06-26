@@ -1,0 +1,70 @@
+body {
+  font-family: helvetica;
+}
+
+header {
+  background: #fff;
+}
+
+header div {
+  padding: 0;
+}
+
+header h1 {
+  background: url(images/logo.jpg) center center no-repeat;
+  background-size: 280px;
+  height: 120px;
+  text-indent: -99999em;
+}
+
+header div nav a:hover,
+header div nav a:active {
+  color: #6a6a6a;
+}
+
+.wrapper {
+  padding-top: 120px;
+}
+
+#insights {
+  background: url(images/noisy-texture.png) repeat;
+}
+#insights section {
+  display: inline-block;
+  margin: 30px 20px;
+  position: relative;
+}
+#insights section h3 {
+  text-shadow: 0 1px 0 rgba(255,255,255,.1);
+}
+
+#insights section p {
+  width: 600px;
+  height: 400px;
+  overflow: hidden;
+  margin: 0 auto;
+}
+
+#insights section p img {
+  height: 100%;
+}
+
+#insights section div#description {
+  display: block;
+  background: rgba(0,0,0,.05);
+  overflow: hidden;
+  white-space: normal;
+  padding: 0 10px;
+  border-radius: 3px;
+}
+
+#insights section div#description p {
+  margin: 0;
+  width: 800px;
+  height: auto;
+  text-align: left;
+}
+
+#whoweare p {
+  text-align: left;
+}
