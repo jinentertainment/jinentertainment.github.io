@@ -69,3 +69,7 @@ header div nav a:active {
 #whoweare p {
   text-align: left;
 }
+
+#footer{
+  text-transform: uppercase;
+}
