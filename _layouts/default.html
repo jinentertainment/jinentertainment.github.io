@@ -45,6 +45,12 @@ layout: default
         disableScroll: false,
         stopPropagation: true,
         callback: function(pos, index, elem) {
+	        var i = hover.length;
+	        while (i--) {
+	            hover[i].className = ' ';
+	        }
+	        hover[pos].className = 'active';
+	
             // Add the effect to slide the project description
             var description = $('#projects .project:first');
             description.hide();
