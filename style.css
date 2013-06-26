@@ -121,3 +121,18 @@ header div nav a:active {
 #footer #email {
   text-transform: lowercase;
 }
+
+.swipe {
+  overflow: hidden;
+  visibility: hidden;
+  position: relative;
+}
+.swipe-wrap {
+  overflow: hidden;
+  position: relative;
+}
+.swipe-wrap > figure {
+  float:left;
+  width:100%;
+  position: relative;
+}
