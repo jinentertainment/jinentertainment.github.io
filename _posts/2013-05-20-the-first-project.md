@@ -7,48 +7,54 @@ layout: project
 image: 'images/insights-january-5.jpg'
 ---
 
-#Chinese Luxury Consumer Survey 2013
-
 I picked up this article from Hurun where Hurun Reports presents findings from Chinese Luxury Consumer Survey 2013
 
-  *  Chinese baijiu brand Moutai falls out of Top 10 Preferred Brands for Gifting
-  *  
-  *  Luxury watch industry has tough year with only Longineslisted as a preferred watch brand for gifting, coming in at fifteenth
-  *  
-  *  Millionaires don’t sleep much, only 6.5 hours a night.  At the weekend, half an hour more.
-  *  
-  *  Burberry, Gucci and Montblanc jump into Top 10 Preferred Brands for Gifting
-  *  
-  *  The super-rich spend a third of their time on the road, 9.2 days a month
-  *  
-  *  Australia out of Top 3 as preferred luxury destination for first time since 2006
-  *  
-  *  France most popular luxury destination, Britain rises to fifth
-  *  
-  *  Switzerland is the year’s big performer as an education destination
-  *  
-  *  Millionaires prefer the internet to source news, TV is down to fifth place from first last year
-  *  
-  *  The wealthier Chinese millionaires are, the more unhappy they are
-  *  
-  *  Chinese Millionaires are concerned with improving their health and family life
+*  Chinese baijiu brand Moutai falls out of Top 10 Preferred Brands for Gifting
+*  
+*  Luxury watch industry has tough year with only Longineslisted as a preferred watch brand for gifting, coming in at fifteenth
+*  
+*  Millionaires don’t sleep much, only 6.5 hours a night.  At the weekend, half an hour more.
+*  
+*  Burberry, Gucci and Montblanc jump into Top 10 Preferred Brands for Gifting
+*  
+*  The super-rich spend a third of their time on the road, 9.2 days a month
+*  
+*  Australia out of Top 3 as preferred luxury destination for first time since 2006
+*  
+*  France most popular luxury destination, Britain rises to fifth
+*  
+*  Switzerland is the year’s big performer as an education destination
+*  
+*  Millionaires prefer the internet to source news, TV is down to fifth place from first last year
+*  
+*  The wealthier Chinese millionaires are, the more unhappy they are
+*  
+*  Chinese Millionaires are concerned with improving their health and family life
 
+<br>
 The Hurun Research Institute today released the Hurun Report Chinese Luxury Consumer Survey 2013. The survey reveals the lifestyle and brand preferences of China's wealthy consumers, and is intended to provide a holistic understanding of the spending habits and lifestyle changes of this burgeoning, influential and ever-changing consumer class. This year the survey included questions for the first time on the ‘happiness index’ of these wealthy consumers.
- 
+
+<br> 
 The Survey also ranks the brand preferences of the Chinese luxury consumers, which are presented at the annual Hurun Best of the Best Awards today.  2013 is the ninth year of the Hurun Report Chinese Luxury Consumer Survey and Hurun Best of the Best Awards.
 
+<br>
 #### Preferred brands for gifting
+
 Moutai has struggled this year, falling to thirteenth place in the Preferred Brands for Gifting, down from fifthlast year.  This drop in popularity cameon the back of a public debate about whether government officials, the largest customer base for Moutai, should be allowed to consume a brand which is effectively a luxury brand with its main product retailing at RMB 1800 a bottle, and also a health scare involving the use of plasticizers. Moutai is the only Chinese brand to make the list of preferred brands. French wine maker Chateau Lafite was the only drinksbrand to make the Top 10 brands for gifting, a clear representation of the Chinese luxury consumers’newfound love of wine.
 
+<br>
 The luxury watch industry has had a toughyear, perhaps brought on by bad PR for the industry following cases involving financial irregularities of government officials and watch ownership. Swiss watchmaker Longineswas the only watch brand to make the list, coming in at fifteenth place, and replacing the more expensive Rolex brand, which dropped off the list altogether this year.
 
+<br>
 French gifts are still all the rage, dominating the list. Accessories (leathers etc.) are the gifts of choice. The UK has an entry in the Top 10 this year, with fashion brand Burberry. Luxury brands Gucci and Montblanc also performed particularly well this year, both breaking into the Top 10 for the first time.
 
+<br>
 Applemoved up to second place for Preferred Brands for Gifting by Men, from fourth place last year.  LV and Chanel were top for Preferred Brands for Men and Women respectively.
 
+<br>
 Hurun Report Founder and Chief Researcher Rupert Hoogewerf said, “This year, there is a clear trend towards gifting more modestly-priced top luxury goods.”
 
-
+<br>
 ##### Table 1: Best Brand for Gifting by Men
 
 |    | Brand             | %     |  Key Gifting Category    | Country |
