@@ -81,10 +81,10 @@ R3′s results were based on interviews with more than 30,000 Chinese consumers.
 
 If you’re looking to use a celebrity endorser for your product in China, here’s R3′s advice:
 
-* - Choose stars that are relevant in China, not because they’re popular in other markets. They might not yet be on Chinese consumers’ radar.
+* Choose stars that are relevant in China, not because they’re popular in other markets. They might not yet be on Chinese consumers’ radar.
 
-* - Choose an engaging celebrity. Endorsements by ones who are simply well-known may not necessarily spur consumers to make purchases.
+* Choose an engaging celebrity. Endorsements by ones who are simply well-known may not necessarily spur consumers to make purchases.
 
-* - Don’t forget local celebrities. Brands like L’Oreal have struck a careful mix of local and global ambassdors. Andy Lau and Li Bingbing might not be household names in the West, but they are superstars in China.
+* Don’t forget local celebrities. Brands like L’Oreal have struck a careful mix of local and global ambassdors. Andy Lau and Li Bingbing might not be household names in the West, but they are superstars in China.
 
-* - While Western celebrities have a powerful draw, don’t underestimate stars from other Asian countries. Korean celebs in particular have passionate fan followings in China, thanks to Korean soap operas and pop music. Actors Lee Min-ho and Hyun Bin and actress Kim Hee-sun all rank in the top 10.
+* While Western celebrities have a powerful draw, don’t underestimate stars from other Asian countries. Korean celebs in particular have passionate fan followings in China, thanks to Korean soap operas and pop music. Actors Lee Min-ho and Hyun Bin and actress Kim Hee-sun all rank in the top 10.
