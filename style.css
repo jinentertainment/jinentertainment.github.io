@@ -27,7 +27,7 @@ header div nav a:active {
   padding-top: 120px;
 }
 
-#whatwedo div p {
+section#whatwedo section div p::after {
   content: none;
 }
 
@@ -44,6 +44,15 @@ header div nav a:active {
   display: inline-block;
   margin: 30px 0px;
   position: relative;
+}
+
+section#whatwedo section div {
+  margin: none;
+  background: none;
+  opacity: 0;
+  padding: 0;
+  width: 200px;
+  border-radius: 0;
 }
 
 #insights section h3 {
@@ -122,6 +131,7 @@ header div nav a:active {
 }
 
 .swipe {
+  margin-top: 40px;
   overflow: hidden;
   visibility: hidden;
   position: relative;
