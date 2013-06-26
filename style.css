@@ -44,12 +44,6 @@ section#whatwedo section div p::after {
   background: none;
 }
 
-#insights section {
-  display: inline-block;
-  margin: 30px 0px;
-  position: relative;
-}
-
 section#whatwedo section div {
   margin: none;
   background: none;
@@ -70,15 +64,25 @@ section#whatwedo section div p {
   margin: 0;
 }
 
-#insights section h3 {
-  font-weight: 500;
-  text-align: left;
-  text-shadow: 0 1px 0 rgba(255,255,255,.1);
+section#whatwedo section h3 {
   width: 100px;
   display: inline-block;
   position: relative;
   float: left;
   margin-top: 0;
+}
+
+
+#insights section {
+  display: inline-block;
+  margin: 30px 0px;
+  position: relative;
+}
+
+#insights section h3 {
+  font-weight: 500;
+  text-align: left;
+  text-shadow: 0 1px 0 rgba(255,255,255,.1);
 }
 
 #insights section p {
