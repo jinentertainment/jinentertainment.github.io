@@ -111,7 +111,7 @@ section#whatwedo section h3 {
 }
 
 section#whatwedo section div:nth-child(2) {
-  background: none;
+  background: rgba(0, 0, 0, .1);
   opacity: 1;
 }
 
@@ -128,11 +128,11 @@ section#whatwedo section div:nth-child(2) {
 }
 
 #insights section p {
- width: 200px;
- height: auto;
- overflow: hidden;
- float: left;
- margin: 0 10px 0 0;
+  width: 200px;
+  height: auto;
+  overflow: hidden;
+  float: left;
+  margin: 0 10px 0 0;
 }
 
 #insights section p span {
