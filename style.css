@@ -45,6 +45,7 @@ header.fixed > div nav h1 {
   float: left;
   top: 0;
   position: fixed;
+  width: 100px;
 }
 
 header.fixed > div nav a {
@@ -198,7 +199,7 @@ section#whatwedo section div:nth-child(2) {
 
 footer ul li a:hover#linkedin, 
 footer ul li a:active#linkedin {
-  color: #00008b;
+  color: #4269e1;
 }
 
 footer ul li a:hover#facebook, 
