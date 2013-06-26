@@ -30,5 +30,28 @@ layout: default
   <footer id='footer'>
     {% include footer.html %}
   </footer>
+
+  <script type='text/javascript' src='js/jquery.min.js'></script>
+  <script type='text/javascript' src='js/swipe.js'></script>
+  <script>
+  
+  var slider =
+    Swipe(document.getElementById('slider'), {
+      auto: 4000,
+      continuous: true,
+      callback: function(pos) {
+  
+        var i = bullets.length;
+        while (i--) {
+          bullets[i].className = ' ';
+        }
+        bullets[pos].className = 'on';
+  
+      }
+    });
+  
+  var bullets = document.getElementById('position').getElementsByTagName('li');
+
+</script>
 </body>
 </html>
