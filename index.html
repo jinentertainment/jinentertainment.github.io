@@ -34,14 +34,14 @@ higher level of access to celebrities in the world to provide strategic, customi
   </div>
 </section>
 
-<section id='project' name='project' class='wrapper'>
+<section id='insights' name='insights' class='wrapper'>
   <div class='container'>
-    <h2>Project</h2>
+    <h2>Insights</h2>
 
     {% for post in site.categories.blog %}
     <section>
       <p><img src='{{post.image}}' alt='{{post.title}} image' title='{{post.title}}'></p>
-      <h3><a>{{post.title}} | {{post.type}}</a></h3>
+      <h3><a>{{post.title}}</h3>
       <div id='description'><p>{{post.content}}</p></div>
     </section>
     {% endfor %}
