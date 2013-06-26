@@ -109,7 +109,7 @@ section#whatwedo section div {
 }
 
 #insights section div#description li {
-  list-style: circle;
+  list-style: none;
   padding: 3px 0;
 }
 
@@ -144,4 +144,8 @@ section#whatwedo section div {
   float:left;
   width:100%;
   position: relative;
+}
+
+#projects {
+  visibility: hidden;
 }
