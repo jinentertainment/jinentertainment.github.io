@@ -135,6 +135,11 @@ section#whatwedo section div:nth-child(2) {
  margin: 0 10px 0 0;
 }
 
+#insights section p span {
+  color: #888;
+  float: right;
+}
+
 #insights section p img {
   width: 200px;
 }
