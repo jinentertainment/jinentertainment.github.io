@@ -20,7 +20,7 @@ header h1 {
 
 header div nav a:hover,
 header div nav a:active {
-  color: #628b3d;
+  color: #556bef;
 }
 
 .wrapper {
@@ -41,18 +41,20 @@ header div nav a:active {
 }
 
 #insights section h3 {
+  text-align: left;
   text-shadow: 0 1px 0 rgba(255,255,255,.1);
 }
 
 #insights section p {
-  width: 600px;
-  height: 400px;
-  overflow: hidden;
-  margin: 0 auto;
+ width: 200px;
+ height: auto;
+ overflow: hidden;
+ float: left;
+ margin: 0 10px 0 0;
 }
 
 #insights section p img {
-  height: 100%;
+  width: 150px;
 }
 
 #insights section div#description {
@@ -73,7 +75,7 @@ header div nav a:active {
 }
 
 #insights section div#description a {
-  color: #628b3d;
+  color: #556bef;
   text-decoration: none;
 }
 

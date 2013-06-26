@@ -53,8 +53,10 @@ title: Main
     {% for post in site.categories.blog %}
     <section>
       <p><img src='{{post.image}}' alt='{{post.title}} image' title='{{post.title}}'></p>
-      <h3>{{post.title}}</h3>
-      <div id='description'><p>{{post.content}}</p></div>
+      <div id='description'>
+	  <h3>{{post.title}}</h3>
+	    {{post.content}}
+	  </div>
     </section>
     {% endfor %}
   </div>
