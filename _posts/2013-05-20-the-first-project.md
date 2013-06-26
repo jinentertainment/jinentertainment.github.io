@@ -9,27 +9,27 @@ image: 'images/insights-january-5.jpg'
 
 I picked up this article from Hurun where Hurun Reports presents findings from Chinese Luxury Consumer Survey 2013
 
-*  Chinese baijiu brand Moutai falls out of Top 10 Preferred Brands for Gifting
+*  &#8226; Chinese baijiu brand Moutai falls out of Top 10 Preferred Brands for Gifting
 
-*  Luxury watch industry has tough year with only Longineslisted as a preferred watch brand for gifting, coming in at fifteenth
+*  &#8226; Luxury watch industry has tough year with only Longineslisted as a preferred watch brand for gifting, coming in at fifteenth
   
-*  Millionaires don’t sleep much, only 6.5 hours a night.  At the weekend, half an hour more.
+*  &#8226; Millionaires don’t sleep much, only 6.5 hours a night.  At the weekend, half an hour more.
  
-*  Burberry, Gucci and Montblanc jump into Top 10 Preferred Brands for Gifting
+*  &#8226; Burberry, Gucci and Montblanc jump into Top 10 Preferred Brands for Gifting
   
-*  The super-rich spend a third of their time on the road, 9.2 days a month
+*  &#8226; The super-rich spend a third of their time on the road, 9.2 days a month
   
-*  Australia out of Top 3 as preferred luxury destination for first time since 2006
+*  &#8226; Australia out of Top 3 as preferred luxury destination for first time since 2006
   
-*  France most popular luxury destination, Britain rises to fifth
+*  &#8226; France most popular luxury destination, Britain rises to fifth
   
-*  Switzerland is the year’s big performer as an education destination
+*  &#8226; Switzerland is the year’s big performer as an education destination
   
-*  Millionaires prefer the internet to source news, TV is down to fifth place from first last year
+*  &#8226; Millionaires prefer the internet to source news, TV is down to fifth place from first last year
   
-*  The wealthier Chinese millionaires are, the more unhappy they are
+*  &#8226; The wealthier Chinese millionaires are, the more unhappy they are
   
-*  Chinese Millionaires are concerned with improving their health and family life
+*  &#8226; Chinese Millionaires are concerned with improving their health and family life
 
 
 The Hurun Research Institute today released the Hurun Report Chinese Luxury Consumer Survey 2013. The survey reveals the lifestyle and brand preferences of China's wealthy consumers, and is intended to provide a holistic understanding of the spending habits and lifestyle changes of this burgeoning, influential and ever-changing consumer class. This year the survey included questions for the first time on the ‘happiness index’ of these wealthy consumers.

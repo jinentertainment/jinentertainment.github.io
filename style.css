@@ -35,6 +35,7 @@ header div nav a:active {
   margin: 30px 20px;
   position: relative;
 }
+
 #insights section h3 {
   text-shadow: 0 1px 0 rgba(255,255,255,.1);
 }
@@ -67,6 +68,16 @@ header div nav a:active {
   text-align: left;
 }
 
+#insights section div#description p a {
+  color: #628b3d;
+  text-decoration: none;
+}
+
+#insights section div#description p a:hover {
+  color: #000;
+  text-decoration: underline;
+}
+
 #insights section div#description ul {
   margin-left: 10px;
 }
@@ -85,5 +96,6 @@ header div nav a:active {
 }
 
 #footer{
+  font-family: 'Open Sans';
   text-transform: uppercase;
 }
