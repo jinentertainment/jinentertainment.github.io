@@ -7,7 +7,9 @@ layout: project
 image: 'images/insights-january-5.jpg'
 ---
 
-I picked up this article from Hurun where Hurun Reports presents findings from Chinese Luxury Consumer Survey 2013
+I picked up this article from Hurun where Hurun Reports presents findings from Chinese Luxury Consumer Survey 2013.
+
+
 
 *  &#8226; Chinese baijiu brand Moutai falls out of Top 10 Preferred Brands for Gifting
 
