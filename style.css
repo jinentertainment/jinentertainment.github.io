@@ -195,6 +195,7 @@ section#whatwedo section div:nth-child(2) {
 
 #footer #email {
   text-transform: lowercase;
+  margin-bottom: 40px;
 }
 
 #footer #email:hover a {
@@ -203,7 +204,7 @@ section#whatwedo section div:nth-child(2) {
 
 footer ul li a:hover#linkedin, 
 footer ul li a:active#linkedin {
-  color: #4269e1;
+  color: #27408b;
 }
 
 footer ul li a:hover#facebook, 
