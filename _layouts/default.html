@@ -34,28 +34,8 @@ layout: default
   <script type='text/javascript' src='js/jquery.min.js'></script>
   <script type='text/javascript' src='js/swipe.js'></script>
   <script>
-    var offset = 160,
-        header = $('#header'),
-        features = header.find('nav a');
-    
-        scrollItems = features.map(function(){
-            var item = $($(this).attr('href'));
-        });
-    
-    features.click(function(e){
-        var href = $(this).attr('href'),
-            offsetTop = href === '#' ? 0 : $(href).offset().top - header.height()/2;
-    
-            if(offsetTop > offset) {
-                $('body').stop().animate({ 
-                    scrollTop: offsetTop
-                }, 300);
-                e.preventDefault();
-            }
-    });
-    
     $(window).scroll(function(){ 
-        if ($(window).scrollTop() > offset) {
+        if ($(window).scrollTop() > 180) {
             $('#header').addClass('fixed');
         } else {
             $('#header').removeClass('fixed');
